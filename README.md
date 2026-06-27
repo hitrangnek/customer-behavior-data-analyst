@@ -40,6 +40,7 @@ The dataset contains 3,900 customer records and includes demographic information
 <img width="576" height="320" alt="dashboard_image" src="https://github.com/user-attachments/assets/338cccd6-e925-4736-b1b8-d81053eb2ba9" />
 ![Dashboard Preview](./dashboard_image.png)
 
-
+dashboard_image.png
+https://github.com/hitrangnek/customer-behavior-data-analyst/blob/a0562e47fe8e45d19ed0153373bcc0af40caee67/dashboard_image.png
 
 
