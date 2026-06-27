@@ -47,3 +47,10 @@ The dataset contains 3,900 customer records and includes demographic information
 - Clothing was the top revenue category ($104K, 44.6%), followed by Accessories ($74K).
 - Customer spending was consistent across age groups (average purchase $59.07–$60.45), suggesting age had little impact on purchase value
 
+## Recommendations
+- Clothing should remain the company's primary product focus, as it contributes nearly 45% of total revenue.
+- Marketing campaigns should not rely heavily on customer age, since spending behavior is almost identical across all age groups.
+- The company has an opportunity to improve its subscription program, as subscribers currently account for only 26.88% of revenue.
+- Sales performance is well distributed across states and products, reducing business risk from overdependence on a single market or product.
+- Since seasonal differences are small, promotional campaigns can be planned throughout the year rather than focusing on a specific season
+
