@@ -33,4 +33,7 @@ The dataset contains 3,900 customer records and includes demographic information
 ### 📥 Download Dataset
 [Download customer_shopping_behavior_raw_data.csv](https://github.com/hitrangnek/customer-behavior-data-analyst/blob/main/customer_shopping_behavior_raw_data.csv)
 
+##
+<img width="1691" height="930" alt="image" src="https://github.com/user-attachments/assets/2ecebafe-0940-46f3-a762-b702e58bae60" />
+
 
