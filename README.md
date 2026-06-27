@@ -12,22 +12,22 @@ A retail company wants to better understand customer purchasing behavior by anal
 ## Dataset use
 The dataset contains 3,900 customer records and includes demographic information, purchasing behavior, product details, payment preferences, shipping methods, subscriptions, discounts, and customer reviews.
 ## Features
-👤 Customer ID
-🎂 Age
-🚻 Gender
-🛍️ Item Purchased
-📦 Product Category
-💰 Purchase Amount
-📍 Location
-👕 Size
-🎨 Color
-🍂 Season
-⭐ Review Rating
-💎 Subscription Status
-🚚 Shipping Type
-🏷️ Discount Applied
-🎁 Promo Code Used
-🔁 Previous Purchases
+- Customer ID
+- Age
+- Gender
+- Item Purchased
+- Product Category
+- Purchase Amount
+- Location
+- Size
+- Color
+- Season
+- Review Rating
+- Subscription Status
+- Shipping Type
+- Discount Applied
+- Promo Code Used
+- Previous Purchases
 💳 Payment Method
 📅 Frequency of Purchases
 ### 📥 Download Dataset
