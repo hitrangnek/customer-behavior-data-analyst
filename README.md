@@ -40,4 +40,10 @@ The dataset contains 3,900 customer records and includes demographic information
 
 ![Dashboard Preview](https://raw.githubusercontent.com/hitrangnek/customer-behavior-data-analyst/main/dashboard_image.png)
 
+## Insight
+- Generated $233,081 in revenue from 3,900 transactions, with an average purchase of $59.76.
+- Customers gave an average review rating of 3.75/5, indicating generally positive satisfaction.
+- Non-subscribers contributed 73.12% ($170K) of revenue, while subscribers contributed 26.88% ($63K).
+- Clothing was the top revenue category ($104K, 44.6%), followed by Accessories ($74K).
+- Customer spending was consistent across age groups (average purchase $59.07–$60.45), suggesting age had little impact on purchase value
 
