@@ -36,5 +36,8 @@ The dataset contains 3,900 customer records and includes demographic information
 ## Project Workflow
 <img width="591" height="259" alt="image" src="https://github.com/user-attachments/assets/0d6d477d-3aae-4402-9146-a24d09ecda79" />
 
+## 📊 Dashboard
+<img width="576" height="320" alt="dashboard_image" src="https://github.com/user-attachments/assets/338cccd6-e925-4736-b1b8-d81053eb2ba9" />
+
 
 
