@@ -54,3 +54,13 @@ The dataset contains 3,900 customer records and includes demographic information
 - Sales performance is well distributed across states and products, reducing business risk from overdependence on a single market or product.
 - Since seasonal differences are small, promotional campaigns can be planned throughout the year rather than focusing on a specific season
 
+## 🙏 Acknowledgements
+
+Thank you for checking out this project!
+
+This project was inspired by and developed with reference to the following YouTube tutorial. While the analysis, dashboard design, and implementation were completed independently, I'd like to give credit to the original creator for providing valuable learning resources.
+
+If you found this project helpful, please consider supporting the original creator by checking out their content.
+
+📺 **Reference YouTube Video:**  
+https://youtu.be/5PrZvPeUw60?si=hgPKZtiUaGhzJr5H
