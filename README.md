@@ -28,8 +28,8 @@ The dataset contains 3,900 customer records and includes demographic information
 - Discount Applied
 - Promo Code Used
 - Previous Purchases
-💳 Payment Method
-📅 Frequency of Purchases
+- Payment Method
+- Frequency of Purchases
 ### 📥 Download Dataset
 [Download customer_shopping_behavior_raw_data.csv](https://github.com/hitrangnek/customer-behavior-data-analyst/blob/main/customer_shopping_behavior_raw_data.csv)
 
